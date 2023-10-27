@@ -11,7 +11,7 @@ RetroVerse testa as capacidades adaptativas do jogador com sua mecânica única 
 ![Screenshot from 2023-10-26 21-28-30](https://github.com/BitenRuivo/RetroVerse/assets/124313519/f2286399-a6f1-4645-a975-12b0eb40a502)
 
 ## Dentro do jogo:
-Quando entrar, você irá se deparar com muitas coisas, mas não se preocupe, temos um tutorial explicando tudo certinho ;)
+Quando entrar, você irá se deparar com muitas coisas, mas não se preocupe, temos um tutorial explicando tudo certinho ;) Apenas continue se mexendo e não deixe esses monstrinhos te pegarem.
 
 ![Screenshot from 2023-10-26 21-27-31](https://github.com/BitenRuivo/RetroVerse/assets/124313519/8570bc1b-a367-4f16-b971-0e7af78c8f92)
 
